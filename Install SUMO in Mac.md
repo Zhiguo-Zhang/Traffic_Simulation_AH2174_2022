@@ -72,8 +72,5 @@ Date: 11.05.2022
   
   download from [link](https://sumo.dlr.de/daily/SUMO_launchers.dmg)
 
-  Then you got
-  ![alt text](/fig/result.jpg "Title")
-
 
 **P.S.** before open sumo-gui.app, make sure that the XQuartz is open or running in the background.
